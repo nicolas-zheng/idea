@@ -1,5 +1,6 @@
 <application>
   <component name="Settings">
-    <option name="translator" value="ai.youdao" />
+    <option name="ignoreRegExp" value="" />
+    <option name="translator" value="fanyi.baidu" />
   </component>
 </application>
